@@ -1,0 +1,1 @@
+These files show my progress in knowledge through these last two months. Feel free to poke and prod at them or me, but know that I haven’t cleaned anything up and left them the way they were as soon as they passed whatever test LearnYouNode put them through. So here they are.
